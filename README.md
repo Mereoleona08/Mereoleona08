@@ -1,6 +1,6 @@
 ### In English
 
-## Welcome to my profile 🌟
+## Welcome to my profile 🔥
 
 My name is Mereoleona (this is a fake name)
 
@@ -14,7 +14,7 @@ My name is Mereoleona (this is a fake name)
 
 ### Em Português
 
-### Bem-vindo ao meu perfil 🌟
+### Bem-vindo ao meu perfil 🔥
 
 Meu nome é Mereoleona (isso é um nome falso)
 
