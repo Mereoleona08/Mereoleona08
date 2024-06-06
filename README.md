@@ -1,16 +1,30 @@
-## Hi there 👋
+### In English
 
-<!--
-**Mereoleona08/Mereoleona08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my profile 🌟
 
-Here are some ideas to get you started:
+My name is Mereoleona (this is a fake name)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm studying at [Alura](https://www.alura.com.br)
+- I'm developing in the javaScript language
+- I use this space to organize and share my developed projects
+
+### You can contact me 📫
+
+00001078686427SP@al.educacao.sp.gov.br
+
+### Em Português
+
+### Bem-vindo ao meu perfil 🌟
+
+Meu nome é Mereoleona (isso é um nome falso)
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na liguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+00001078686427SP@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/U45Q8YaJzBUAAAAC/moti-hearts.gif)
